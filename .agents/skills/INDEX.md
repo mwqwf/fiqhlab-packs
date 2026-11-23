@@ -1,9 +1,10 @@
-# فهرس المهارات (مولَّد بـ`tools/sync-to-project.py` من mwqwf/agent-skills@fe157b5)
+# فهرس المهارات (مولَّد بـ`tools/sync-to-project.py` من mwqwf/agent-skills@383fe5c)
 
 طابِق المهمة بالمهارة واقرأ `SKILL.md` قبل العمل. «مركزية» = لا تُعدَّل هنا.
 
 | المهارة | النوع | متى |
 |---|---|---|
-| `fiqhlab-engineering` | مركزية | FiqhLab (مختبر الفقه) engineering rules for mwqwf/FiqhLab and fiqhlab-packs — interactive comparative fiqh knowledge layer (reference, issue graph, corrected tr… |
-| `mwqwf-workflow` | مركزية | The owner's binding work constitution for every mwqwf project (Minbar, Mushafak/QuranRafiq, FiqhLab, Mutafail factory) — permission threshold (request scope = p… |
-| `project-registry` | مركزية | Authoritative list of the owner's ACTIVE vs INACTIVE projects and repositories, what each repo is, where its state lives, and the no-touch rule for inactive one… |
+| `arabic-text-integrity` | مركزية | Arabic RTL UI, diacritics, fonts, plurals, and Quran/hadith/tafsir text integrity in apps, data, videos. العربية والاتجاه والتشكيل وسلامة نصّ القرآن والحديث في … |
+| `engineering-discipline` | مركزية | Any code/data/workflow change, bug, failing test, plan, review, commit, PR, merge or 'done' claim. تحقّق، تتبّع خطأ، خطة، مراجعة، إيداع، دمج قبل إعلان أُنجز… |
+| `fiqhlab-engineering` | مركزية | FiqhLab/مختبر الفقه (FiqhLab, fiqhlab-packs): fiqh app, content packs, factory pipeline, budget gate, release. تطبيق مختبر الفقه، الحزم، المصنع، المسائل، الموار… |
+| `mwqwf-workflow` | مركزية | ALWAYS for any mwqwf/owner task (Minbar, Mushafak, FiqhLab, Mutafail): rules, permission, done, report, spend, BOARD. دستور العمل مع المالك لكل مهمة ومشروع… |
